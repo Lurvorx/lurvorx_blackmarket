@@ -1,9 +1,18 @@
+----------------------------------------------------
+--                                                --
+--                 Lurvorx Scripts                --
+--      Basic FiveM scripts made with quality     --
+--           https://github.com/Lurvorx           --
+--          https://discord.gg/jJnE7yTYZW         --
+--                                                --
+----------------------------------------------------
+
 fx_version "cerulean"
 game "gta5"
 lua54 "yes"
 
 author "Lurvorx Scripts"
-description "A basic blackmarket script made by Lurvorx Scripts."
+description "A simple and basic blackmarket script made by Lurvorx Scripts."
 
 client_script {
     "client/client.lua"
