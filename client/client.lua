@@ -68,7 +68,7 @@ function OpenBlackmarketMenu()
                 while not hasPickedUpItem do
                     Citizen.Wait(0)
                     if GetDistanceBetweenCoords(GetEntityCoords(PlayerPedId(), false), markerCoords.x, markerCoords.y, markerCoords.z) < 2.5 then
-                        ESX.ShowHelpNotification("~INPUT_CONTEXT~ " .. Config.Locale.MarkerPlace.takeItem)
+                        ESX.ShowHelpNotification("~INPUT_CONTEXT~ " .. Config.Strings.MarkerPlace.takeItem)
                         if IsControlJustPressed(0, Config.Menu.ControlToOpenMenu) then
                             TriggerServerEvent("lurvorx_blackmarket:buyItem", item, amount, price)
                             hasPickedUpItem = true
