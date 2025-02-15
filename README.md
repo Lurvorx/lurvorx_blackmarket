@@ -5,7 +5,7 @@ You go to a ped and open the blackmarket menu. You choose what item you wanna bu
 
 Support is available for all of our scripts, just join our discord server, open a ticket and someone from the support team will assist you. If you have any suggestions, please join our discord server and make a suggestion.
 
-Join our discord today: [Lurvorx Scripts](https://discord.gg/jJnE7yTYZW)
+Join our discord today: [Lurvorx Scripts](https://discord.gg/Tzzsh8zVyQ)
 
 If you wanna sa a preview befor you download it, check our video.
 Watch it here: [Preview - COMING SOON!]()
